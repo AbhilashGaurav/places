@@ -1,0 +1,12 @@
+.mainContainer {
+  display: "flex";
+  align-items: "center";
+  justify-content: space-between;
+}
+.actionDiv {
+  text-align: "center";
+}
+.loader{
+  margin-left: 50%;
+  margin-top: 40%;
+}
